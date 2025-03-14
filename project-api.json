@@ -64,6 +64,6 @@
     "title": "Facebook Clone",
     "description": "This project demonstrates your ability to implement social media-style authentication features. It would involve creating a login page with features like email/password input, social media login options, and potentially even password recovery functionality.",
     "tags": ["HTML", "Tailwind CSS"],
-    "image": "facebook.jpg" 
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true" 
   }
 ]
