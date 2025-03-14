@@ -9,13 +9,14 @@
     "title": "Agro-Connect India",
     "description": "This project appears to be related to agriculture or farming. It could be an e-commerce platform for agricultural products, a platform connecting farmers with buyers, or a resource hub for agricultural information.",
     "tags": ["Tailwindcss", "React JS", "Python", "Flask", "SQL Lite", "Figma"],
-    "image": "agro.jpg" 
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/agro.png?raw=true" 
   },
   {
     "title": "Midnight Mode - Dark Theme Extension for VS Code",
     "description": "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
     "tags": ["VSCE", "NPM"],
-    "image": "exe.jpg" 
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/exe.jpg?raw=true"
+     
   },
   {
     "title": "QR Code Generator",
