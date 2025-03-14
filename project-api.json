@@ -15,7 +15,7 @@
     "title": "Midnight Mode - Dark Theme Extension for VS Code",
     "description": "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
     "tags": ["VSCE", "NPM"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/exe.jpg?raw=true"
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/exe.png?raw=true"
      
   },
   {
@@ -34,36 +34,36 @@
     "title": "Portfolio 2K24",
     "description": "The most modern and high-quality design made at a professional level.",
     "tags": ["Tailwindcss", "HTML", "Javascript", "AOS library", "Figma", "Parallax js"],
-    "image": "portfolio.jpg"  
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/portfolio24.png?raw=true"  
   },
   {
     "title": "Amazon Clone",
     "description": "This is a common project for developers, likely showcasing your skills in building e-commerce platforms. It would involve features like product browsing, shopping cart functionality, user accounts, and payment integration.",
     "tags": ["HTML", "Tailwind CSS"],
-    "image": "amazon.jpg"  
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/amazon.png?raw=true"  
   },
   {
     "title": "Netflix Clone",
     "description": "Another popular project, this likely demonstrates your ability to build a streaming platform-like interface. It might include features like video playback, user profiles, content recommendations, and search functionality.",
     "tags": ["HTML", "Tailwind CSS"],
-    "image": "netflix.jpg"  
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/netflix.png?raw=true"  
   },
   {
     "title": "Yoga Classes Site",
     "description": "This project could be a website for a yoga studio or a platform for online yoga classes. It might include features like class schedules, instructor profiles, booking systems, and potentially even live streaming capabilities.",
     "tags": ["HTML", "Tailwind CSS"],
-    "image": "yoga.jpg" 
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/yoga.png?raw=true" 
   },
   {
     "title": "Microsoft Edge Clone",
     "description": "This project likely focuses on recreating the user interface and functionality of the Microsoft Edge web browser. It would involve implementing features like browsing, tab management, extensions, and potentially even basic web rendering capabilities.",
     "tags": ["HTML", "Tailwind CSS"],
-    "image": "microsoft.jpg" 
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/microsoft.png?raw=true" 
   },
   {
-    "title": "Facebook Clone",
+    "title": "Facebook Login page Clone",
     "description": "This project demonstrates your ability to implement social media-style authentication features. It would involve creating a login page with features like email/password input, social media login options, and potentially even password recovery functionality.",
     "tags": ["HTML", "Tailwind CSS"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true" 
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/facebook.png?raw=true" 
   }
 ]
