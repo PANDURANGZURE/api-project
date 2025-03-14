@@ -3,19 +3,19 @@
     "title": "Diploma Solutions",
     "description": "This project likely showcases a website or application designed for educational institutions or individuals pursuing diplomas. It might involve features like online course registration, student portals, or career guidance.",
     "tags": ["Wordpress", "Analytics", "SEO"],
-    "image": "dp.jpg"  // Replace with a valid image URL or file path
+    "image": "dp.jpg"  
   },
   {
     "title": "Agro-Connect India",
     "description": "This project appears to be related to agriculture or farming. It could be an e-commerce platform for agricultural products, a platform connecting farmers with buyers, or a resource hub for agricultural information.",
     "tags": ["Tailwindcss", "React JS", "Python", "Flask", "SQL Lite", "Figma"],
-    "image": "agro.jpg"  // Replace with a valid image URL or file path
+    "image": "agro.jpg" 
   },
   {
     "title": "Midnight Mode - Dark Theme Extension for VS Code",
     "description": "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
     "tags": ["VSCE", "NPM"],
-    "image": "exe.jpg"  // Replace with a valid image URL or file path
+    "image": "exe.jpg" 
   },
   {
     "title": "QR Code Generator",
@@ -27,42 +27,42 @@
     "title": "Pure Ayurveda",
     "description": "This project is likely a website or app for an Ayurvedic products or services company. It might feature information about Ayurvedic products, online consultations, or a booking system for treatments.",
     "tags": ["Tailwindcss", "HTML", "Swiper JS", "JavaScript", "Figma", "Canva", "Web3Form", "Vite"],
-    "image": "ayu.jpg"  // Replace with a valid image URL or file path
+    "image": "ayu.jpg" 
   },
   {
     "title": "Portfolio 2K24",
     "description": "The most modern and high-quality design made at a professional level.",
     "tags": ["Tailwindcss", "HTML", "Javascript", "AOS library", "Figma", "Parallax js"],
-    "image": "portfolio.jpg"  // Replace with a valid image URL or file path
+    "image": "portfolio.jpg"  
   },
   {
     "title": "Amazon Clone",
     "description": "This is a common project for developers, likely showcasing your skills in building e-commerce platforms. It would involve features like product browsing, shopping cart functionality, user accounts, and payment integration.",
     "tags": ["HTML", "Tailwind CSS"],
-    "image": "amazon.jpg"  // Replace with a valid image URL or file path
+    "image": "amazon.jpg"  
   },
   {
     "title": "Netflix Clone",
     "description": "Another popular project, this likely demonstrates your ability to build a streaming platform-like interface. It might include features like video playback, user profiles, content recommendations, and search functionality.",
     "tags": ["HTML", "Tailwind CSS"],
-    "image": "netflix.jpg"  // Replace with a valid image URL or file path
+    "image": "netflix.jpg"  
   },
   {
     "title": "Yoga Classes Site",
     "description": "This project could be a website for a yoga studio or a platform for online yoga classes. It might include features like class schedules, instructor profiles, booking systems, and potentially even live streaming capabilities.",
     "tags": ["HTML", "Tailwind CSS"],
-    "image": "yoga.jpg"  // Replace with a valid image URL or file path
+    "image": "yoga.jpg" 
   },
   {
     "title": "Microsoft Edge Clone",
     "description": "This project likely focuses on recreating the user interface and functionality of the Microsoft Edge web browser. It would involve implementing features like browsing, tab management, extensions, and potentially even basic web rendering capabilities.",
     "tags": ["HTML", "Tailwind CSS"],
-    "image": "microsoft.jpg"  // Replace with a valid image URL or file path
+    "image": "microsoft.jpg" 
   },
   {
     "title": "Facebook Clone",
     "description": "This project demonstrates your ability to implement social media-style authentication features. It would involve creating a login page with features like email/password input, social media login options, and potentially even password recovery functionality.",
     "tags": ["HTML", "Tailwind CSS"],
-    "image": "facebook.jpg"  // Replace with a valid image URL or file path
+    "image": "facebook.jpg" 
   }
 ]
