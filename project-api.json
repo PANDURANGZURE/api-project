@@ -21,7 +21,7 @@
     "title": "QR Code Generator",
     "description": "This is a QR Code Generator allows users to convert text, numbers, and URLs into QR codes that never expire! Whether you need a QR code for personal, business, or marketing use. Share information effortlessly with scannable QR codes that are easy to use and compatible with all devices.",
     "tags": ["Figma", "Canva", "Tailwindcss", "React JS", "Web3Form", "Vite", "GSAP", "Python", "Flask"],
-    "image": "qr.jpg"  // Replace with a valid image URL or file path
+    "image": "qr.jpg"
   },
   {
     "title": "Pure Ayurveda",
