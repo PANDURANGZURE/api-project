@@ -1,10 +1,11 @@
 [
   {
-    "title": "Diploma Solutions",
-    "description": "This project likely showcases a website or application designed for educational institutions or individuals pursuing diplomas. It might involve features like online course registration, student portals, or career guidance.",
-    "tags": ["Wordpress", "Analytics", "SEO"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true"  
+    "title": "QR Code Generator",
+    "description": "This is a QR Code Generator allows users to convert text, numbers, and URLs into QR codes that never expire! Whether you need a QR code for personal, business, or marketing use. Share information effortlessly with scannable QR codes that are easy to use and compatible with all devices.",
+    "tags": ["Figma", "Canva", "Tailwindcss", "React JS", "Web3Form", "Vite", "GSAP", "Python", "Flask"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/qr.png?raw=true"
   },
+  
   {
     "title": "Agro-Connect India",
     "description": "This project appears to be related to agriculture or farming. It could be an e-commerce platform for agricultural products, a platform connecting farmers with buyers, or a resource hub for agricultural information.",
@@ -18,17 +19,18 @@
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/exe.png?raw=true"
      
   },
-  {
-    "title": "QR Code Generator",
-    "description": "This is a QR Code Generator allows users to convert text, numbers, and URLs into QR codes that never expire! Whether you need a QR code for personal, business, or marketing use. Share information effortlessly with scannable QR codes that are easy to use and compatible with all devices.",
-    "tags": ["Figma", "Canva", "Tailwindcss", "React JS", "Web3Form", "Vite", "GSAP", "Python", "Flask"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/qr.png?raw=true"
-  },
+  
   {
     "title": "Pure Ayurveda",
     "description": "This project is likely a website or app for an Ayurvedic products or services company. It might feature information about Ayurvedic products, online consultations, or a booking system for treatments.",
     "tags": ["Tailwindcss", "HTML", "Swiper JS", "JavaScript", "Figma", "Canva", "Web3Form", "Vite"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/ayu.png?raw=true" 
+  },
+  {
+    "title": "Diploma Solutions",
+    "description": "This project likely showcases a website or application designed for educational institutions or individuals pursuing diplomas. It might involve features like online course registration, student portals, or career guidance.",
+    "tags": ["Wordpress", "Analytics", "SEO"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true"  
   },
   {
     "title": "Portfolio 2K24",
