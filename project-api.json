@@ -1,68 +1,68 @@
 [
-    {
-      title: "Diploma Solutions",
-      description: "This project likely showcases a website or application designed for educational institutions or individuals pursuing diplomas. It might involve features like online course registration, student portals, or career guidance.",
-      tags: ["Wordpress", "Analytics", "SEO"],
-      image: dp,
-    },
-    {
-      title: "Agro-Connect India",
-      description: " This project appears to be related to agriculture or farming. It could be an e-commerce platform for agricultural products, a platform connecting farmers with buyers, or a resource hub for agricultural information.",
-      tags: ["Tailwindcss", "React JS", "Python", "Flask", "SQL Lite", "Figma"],
-      image: agro,
-    },
-    {
-      title: "Midnight Mode - Dark Theme Extension for VS Code",
-      description: "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
-      tags: ["VSCE","NPM"],
-      image: exe,
-    },
-    {
-      title: "QR Code Generator",
-      description: " This is a QR Code Generator allows users to convert text, numbers, and URLs into QR codes that never expire! Whether you need a QR code for personal, business, or marketing use. Share information effortlessly with scannable QR codes that are easy to use and compatible with all devices.",
-      tags: ["Figma","Canva","Tailwindcss",  "React JS","Web3Form","Vite","GSAP", "Python", "Flask",  ],
-      image: qr,
-    },
-    {
-      title: "Pure Ayurveda",
-      description: " This project is likely a website or app for an Ayurvedic products or services company. It might feature information about Ayurvedic products, online consultations, or a booking system for treatments.",
-      tags: ["Tailwindcss","HTML","Swiper JS","JavaScript", "Figma", "Canva","Web3Form","Vite"],
-      image: ayu,
-    },
-    {
-      title: "Portfolio 2K24",
-      description: "The most modern and high-quality design made at a professional level.",
-      tags: ["Tailwindcss", "HTML", "Javascript", "AOS library", "Figma","Parallax js"],
-      image: portfolio,
-    },
-    {
-      title: "Amazon Clone",
-      description: "This is a common project for developers, likely showcasing your skills in building e-commerce platforms. It would involve features like product browsing, shopping cart functionality, user accounts, and payment integration.",
-      tags: ["HTML","Tailwind CSS",],
-      image: amazon,
-    },
-    {
-      title: "Netflix Clone",
-      description: "Another popular project, this likely demonstrates your ability to build a streaming platform-like interface. It might include features like video playback, user profiles, content recommendations, and search functionality.",
-      tags: ["HTML","Tailwind CSS",],
-      image: netflix,
-    },
-    {
-      title: "Yoga Classes Site",
-      description: "This project could be a website for a yoga studio or a platform for online yoga classes. It might include features like class schedules, instructor profiles, booking systems, and potentially even live streaming capabilities.",
-      tags: ["HTML","Tailwind CSS",],
-      image: yoga,
-    },
-    {
-      title: "Microsoft Edge Clone",
-      description: "This project likely focuses on recreating the user interface and functionality of the Microsoft Edge web browser. It would involve implementing features like browsing, tab management, extensions, and potentially even basic web rendering capabilities.",
-      tags: ["HTML","Tailwind CSS",],
-      image: microsoft,
-    },
-    {
-      title: "Facebook Clone",
-      description: "This project demonstrates your ability to implement social media-style authentication features. It would involve creating a login page with features like email/password input, social media login options, and potentially even password recovery functionality.",
-      tags: ["HTML","Tailwind CSS",],
-      image: Facebook,
-    }
-  ];
+  {
+    "title": "Diploma Solutions",
+    "description": "This project likely showcases a website or application designed for educational institutions or individuals pursuing diplomas. It might involve features like online course registration, student portals, or career guidance.",
+    "tags": ["Wordpress", "Analytics", "SEO"],
+    "image": "dp.jpg"  // Replace with a valid image URL or file path
+  },
+  {
+    "title": "Agro-Connect India",
+    "description": "This project appears to be related to agriculture or farming. It could be an e-commerce platform for agricultural products, a platform connecting farmers with buyers, or a resource hub for agricultural information.",
+    "tags": ["Tailwindcss", "React JS", "Python", "Flask", "SQL Lite", "Figma"],
+    "image": "agro.jpg"  // Replace with a valid image URL or file path
+  },
+  {
+    "title": "Midnight Mode - Dark Theme Extension for VS Code",
+    "description": "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
+    "tags": ["VSCE", "NPM"],
+    "image": "exe.jpg"  // Replace with a valid image URL or file path
+  },
+  {
+    "title": "QR Code Generator",
+    "description": "This is a QR Code Generator allows users to convert text, numbers, and URLs into QR codes that never expire! Whether you need a QR code for personal, business, or marketing use. Share information effortlessly with scannable QR codes that are easy to use and compatible with all devices.",
+    "tags": ["Figma", "Canva", "Tailwindcss", "React JS", "Web3Form", "Vite", "GSAP", "Python", "Flask"],
+    "image": "qr.jpg"  // Replace with a valid image URL or file path
+  },
+  {
+    "title": "Pure Ayurveda",
+    "description": "This project is likely a website or app for an Ayurvedic products or services company. It might feature information about Ayurvedic products, online consultations, or a booking system for treatments.",
+    "tags": ["Tailwindcss", "HTML", "Swiper JS", "JavaScript", "Figma", "Canva", "Web3Form", "Vite"],
+    "image": "ayu.jpg"  // Replace with a valid image URL or file path
+  },
+  {
+    "title": "Portfolio 2K24",
+    "description": "The most modern and high-quality design made at a professional level.",
+    "tags": ["Tailwindcss", "HTML", "Javascript", "AOS library", "Figma", "Parallax js"],
+    "image": "portfolio.jpg"  // Replace with a valid image URL or file path
+  },
+  {
+    "title": "Amazon Clone",
+    "description": "This is a common project for developers, likely showcasing your skills in building e-commerce platforms. It would involve features like product browsing, shopping cart functionality, user accounts, and payment integration.",
+    "tags": ["HTML", "Tailwind CSS"],
+    "image": "amazon.jpg"  // Replace with a valid image URL or file path
+  },
+  {
+    "title": "Netflix Clone",
+    "description": "Another popular project, this likely demonstrates your ability to build a streaming platform-like interface. It might include features like video playback, user profiles, content recommendations, and search functionality.",
+    "tags": ["HTML", "Tailwind CSS"],
+    "image": "netflix.jpg"  // Replace with a valid image URL or file path
+  },
+  {
+    "title": "Yoga Classes Site",
+    "description": "This project could be a website for a yoga studio or a platform for online yoga classes. It might include features like class schedules, instructor profiles, booking systems, and potentially even live streaming capabilities.",
+    "tags": ["HTML", "Tailwind CSS"],
+    "image": "yoga.jpg"  // Replace with a valid image URL or file path
+  },
+  {
+    "title": "Microsoft Edge Clone",
+    "description": "This project likely focuses on recreating the user interface and functionality of the Microsoft Edge web browser. It would involve implementing features like browsing, tab management, extensions, and potentially even basic web rendering capabilities.",
+    "tags": ["HTML", "Tailwind CSS"],
+    "image": "microsoft.jpg"  // Replace with a valid image URL or file path
+  },
+  {
+    "title": "Facebook Clone",
+    "description": "This project demonstrates your ability to implement social media-style authentication features. It would involve creating a login page with features like email/password input, social media login options, and potentially even password recovery functionality.",
+    "tags": ["HTML", "Tailwind CSS"],
+    "image": "facebook.jpg"  // Replace with a valid image URL or file path
+  }
+]
