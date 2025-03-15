@@ -1,0 +1,98 @@
+{
+  "Internships Certificates": [
+    {
+      "title": "Prodigy InfoTech",
+      "duration": "4 Weeks",
+      "image": "https://yourdomain.com/assets/intern1.png"
+    },
+    {
+      "title": "Octanet Services Pvt Ltd",
+      "duration": "8 Weeks",
+      "image": "https://yourdomain.com/assets/intern2.png"
+    },
+    {
+      "title": "Internpe Pvt Ltd",
+      "duration": "6 Weeks",
+      "image": "https://yourdomain.com/assets/intern3.png"
+    }
+  ],
+  "Certificates": [
+    {
+      "title": "Figma (UI/UX)",
+      "issuer": "Udemy",
+      "image": "https://yourdomain.com/assets/figma.png"
+    },
+    {
+      "title": "HTML And CSS",
+      "issuer": "Udemy",
+      "image": "https://yourdomain.com/assets/htmlcss.png"
+    },
+    {
+      "title": "Cascading Style Sheets",
+      "issuer": "Udemy",
+      "image": "https://yourdomain.com/assets/css.png"
+    },
+    {
+      "title": "Tailwind CSS",
+      "issuer": "Udemy",
+      "image": "https://yourdomain.com/assets/tailwind.png"
+    },
+    {
+      "title": "Tailwind CSS",
+      "issuer": "Lets Upgrade",
+      "image": "https://yourdomain.com/assets/tailwind2.png"
+    },
+    {
+      "title": "Bootstrap",
+      "issuer": "LearnTube",
+      "image": "https://yourdomain.com/assets/bootstrap.png"
+    },
+    {
+      "title": "Git And GitHub",
+      "issuer": "Geekster",
+      "image": "https://yourdomain.com/assets/git.png"
+    },
+    {
+      "title": "JavaScript",
+      "issuer": "Great Learning",
+      "image": "https://yourdomain.com/assets/js.png"
+    },
+    {
+      "title": "WordPress",
+      "issuer": "Udemy",
+      "image": "https://yourdomain.com/assets/wp.png"
+    },
+    {
+      "title": "WordPress",
+      "issuer": "Coursera",
+      "image": "https://yourdomain.com/assets/wp2.png"
+    },
+    {
+      "title": "SQL",
+      "issuer": "Udemy",
+      "image": "https://yourdomain.com/assets/sql.png"
+    },
+    {
+      "title": "C",
+      "issuer": "Udemy",
+      "image": "https://yourdomain.com/assets/c.png"
+    },
+    {
+      "title": "Java",
+      "issuer": "Great Learning",
+      "image": "https://yourdomain.com/assets/java.png"
+    }
+  ],
+  "Hackathon Certificates": [
+    {
+      "title": "Ajeenkya D Y Patil",
+      "award": "1st Prize",
+      "image": "https://yourdomain.com/assets/adypu1st.png"
+    },
+    {
+      "title": "Ajeenkya D Y Patil",
+      "award": "Participation",
+      "image": "https://yourdomain.com/assets/adypuap.png"
+    }
+  ]
+}
