@@ -1,5 +1,5 @@
 {
-  "web": [
+  "WEB DEVLOPMENT": [
     {
       "name": "Figma",
       "site": "https://www.figma.com/",
@@ -61,7 +61,7 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"
     }
   ],
-  "other": [
+  "OTHER": [
     {
       "name": "C",
       "site": "https://en.wikipedia.org/wiki/C_(programming_language)",
