@@ -55,6 +55,11 @@
       "site": "https://vitejs.dev/",
       "img": "https://vitejs.dev/logo.svg"
     },
+     {
+      "name": "Webpack",
+      "site": "https://webpack.js.org/",
+      "img": "https://webpack.js.org/site-logo.c0e60df418e04f58.svg"
+    },
     {
       "name": "WordPress",
       "site": "https://wordpress.org/",
