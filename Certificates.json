@@ -16,6 +16,18 @@
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/intern3.png?raw=true"
     }
   ],
+   "Hackathon Certificates": [
+    {
+      "title": "Ajeenkya D Y Patil",
+      "award": "1st Prize",
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/adypu1st.png?raw=true"
+    },
+    {
+      "title": "Ajeenkya D Y Patil",
+      "award": "Participation",
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/adypuap.png?raw=true"
+    }
+  ];
   "Certificates": [
     {
       "title": "Figma (UI/UX)",
@@ -82,18 +94,7 @@
       "issuer": "Great Learning",
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/java.png?raw=true"
     }
-  ],
-  "Hackathon Certificates": [
-    {
-      "title": "Ajeenkya D Y Patil",
-      "award": "1st Prize",
-      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/adypu1st.png?raw=true"
-    },
-    {
-      "title": "Ajeenkya D Y Patil",
-      "award": "Participation",
-      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/adypuap.png?raw=true"
-    }
   ]
+ 
 }
 
