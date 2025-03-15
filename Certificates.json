@@ -3,96 +3,97 @@
     {
       "title": "Prodigy InfoTech",
       "duration": "4 Weeks",
-      "image": "https://yourdomain.com/assets/intern1.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/intern1.png?raw=true"
     },
     {
       "title": "Octanet Services Pvt Ltd",
       "duration": "8 Weeks",
-      "image": "https://yourdomain.com/assets/intern2.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/intern2.png?raw=true"
     },
     {
       "title": "Internpe Pvt Ltd",
       "duration": "6 Weeks",
-      "image": "https://yourdomain.com/assets/intern3.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/intern3.png?raw=true"
     }
   ],
   "Certificates": [
     {
       "title": "Figma (UI/UX)",
       "issuer": "Udemy",
-      "image": "https://yourdomain.com/assets/figma.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/figma.png?raw=true"
     },
     {
       "title": "HTML And CSS",
       "issuer": "Udemy",
-      "image": "https://yourdomain.com/assets/htmlcss.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/htmlcss.png?raw=true"
     },
     {
       "title": "Cascading Style Sheets",
       "issuer": "Udemy",
-      "image": "https://yourdomain.com/assets/css.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/css.png?raw=true"
     },
     {
       "title": "Tailwind CSS",
       "issuer": "Udemy",
-      "image": "https://yourdomain.com/assets/tailwind.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/tailwindcss.png?raw=true"
     },
     {
       "title": "Tailwind CSS",
       "issuer": "Lets Upgrade",
-      "image": "https://yourdomain.com/assets/tailwind2.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/tailwindcss2.png?raw=true"
     },
     {
       "title": "Bootstrap",
       "issuer": "LearnTube",
-      "image": "https://yourdomain.com/assets/bootstrap.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/BOOTSTRAP.jpg?raw=true"
     },
     {
       "title": "Git And GitHub",
       "issuer": "Geekster",
-      "image": "https://yourdomain.com/assets/git.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/git.png?raw=true"
     },
     {
       "title": "JavaScript",
       "issuer": "Great Learning",
-      "image": "https://yourdomain.com/assets/js.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/js.png?raw=true"
     },
     {
       "title": "WordPress",
       "issuer": "Udemy",
-      "image": "https://yourdomain.com/assets/wp.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/wp.png?raw=true"
     },
     {
       "title": "WordPress",
       "issuer": "Coursera",
-      "image": "https://yourdomain.com/assets/wp2.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/wp2.png?raw=true"
     },
     {
       "title": "SQL",
       "issuer": "Udemy",
-      "image": "https://yourdomain.com/assets/sql.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/sql.png?raw=true"
     },
     {
       "title": "C",
       "issuer": "Udemy",
-      "image": "https://yourdomain.com/assets/c.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/c.png?raw=true"
     },
     {
       "title": "Java",
       "issuer": "Great Learning",
-      "image": "https://yourdomain.com/assets/java.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/java.png?raw=true"
     }
   ],
   "Hackathon Certificates": [
     {
       "title": "Ajeenkya D Y Patil",
       "award": "1st Prize",
-      "image": "https://yourdomain.com/assets/adypu1st.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/adypu1st.png?raw=true"
     },
     {
       "title": "Ajeenkya D Y Patil",
       "award": "Participation",
-      "image": "https://yourdomain.com/assets/adypuap.png"
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/adypuap.png?raw=true"
     }
   ]
 }
+
