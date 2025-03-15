@@ -1,0 +1,96 @@
+{
+  "web": [
+    {
+      "name": "Figma",
+      "site": "https://www.figma.com/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+    },
+    {
+      "name": "HTML",
+      "site": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+    },
+    {
+      "name": "CSS",
+      "site": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+    },
+    {
+      "name": "Bootstrap",
+      "site": "https://getbootstrap.com/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
+    },
+    {
+      "name": "Tailwind",
+      "site": "https://tailwindcss.com/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+    },
+    {
+      "name": "Sass",
+      "site": "https://sass-lang.com/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"
+    },
+    {
+      "name": "JavaScript",
+      "site": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+      "name": "React",
+      "site": "https://react.dev/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+    },
+    {
+      "name": "GSAP",
+      "site": "https://greensock.com/gsap/",
+      "img": "https://greensock.com/uploads/monthly_2021_08/favicon.png"
+    },
+    {
+      "name": "Firebase",
+      "site": "https://firebase.google.com/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"
+    },
+    {
+      "name": "Vite",
+      "site": "https://vitejs.dev/",
+      "img": "https://vitejs.dev/logo.svg"
+    },
+    {
+      "name": "WordPress",
+      "site": "https://wordpress.org/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"
+    }
+  ],
+  "other": [
+    {
+      "name": "C",
+      "site": "https://en.wikipedia.org/wiki/C_(programming_language)",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
+    },
+    {
+      "name": "C++",
+      "site": "https://isocpp.org/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
+    },
+    {
+      "name": "Java",
+      "site": "https://www.java.com/",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"
+    },
+    {
+      "name": "Python",
+      "site": "https://www.python.org/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+    },
+    {
+      "name": "MySQL",
+      "site": "https://www.mysql.com/",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a6/MySQL.svg"
+    },
+    {
+      "name": "GitHub",
+      "site": "https://github.com/",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+    }
+  ]
+}
