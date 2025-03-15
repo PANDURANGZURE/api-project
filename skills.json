@@ -43,7 +43,7 @@
     {
       "name": "GSAP",
       "site": "https://greensock.com/gsap/",
-      "img": "https://greensock.com/uploads/monthly_2021_08/favicon.png"
+      "img": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/icon/gsap.png?raw=true"
     },
     {
       "name": "Firebase",
@@ -85,7 +85,7 @@
     {
       "name": "MySQL",
       "site": "https://www.mysql.com/",
-      "img": "https://upload.wikimedia.org/wikipedia/en/a/a6/MySQL.svg"
+      "img": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/icon/mysql.png?raw=true"
     },
     {
       "name": "GitHub",
