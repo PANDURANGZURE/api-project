@@ -1,5 +1,5 @@
 {
-  "Internships Certificates": [
+  "Internships ": [
     {
       "title": "Prodigy InfoTech",
       "duration": "4 Weeks",
@@ -16,7 +16,7 @@
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/intern3.png?raw=true"
     }
   ],
-   "Hackathon Certificates": [
+   "Hackathon ": [
     {
       "title": "Ajeenkya D Y Patil",
       "award": "1st Prize",
@@ -28,7 +28,7 @@
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/adypuap.png?raw=true"
     }
   ],
-  "Certificates": [
+  "My": [
     {
       "title": "Figma (UI/UX)",
       "issuer": "Udemy",
