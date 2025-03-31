@@ -17,15 +17,15 @@
     }
   ],
   "Hackathon & Win": [
+     {
+      "title": "Nirmitivedh 2k25 ADYPU",
+      "award": "Special Prize",
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/nirmitived%20winner.jpg?raw=true"
+    },
     {
       "title": "Techfusion 2k25",
       "award": "1st Prize",
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/adypu1st.png?raw=true"
-    },
-    {
-      "title": "Nirmitivedh 2k25 ADYPU",
-      "award": "Special Prize",
-      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/Nirmitivedh%202k25_6.jpg?raw=true"
     },
     {
       "title": "GameForgegc MIT",
@@ -41,7 +41,16 @@
       "title": "Nirmitivedh 2k25 ADYPU",
       "award": "Participation",
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/Nirmitivedh%202k25_2.jpg?raw=true"
-    }
+    }, {
+      "title": "Techno-Sci MMIT Pune",
+      "award": "Participation",
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/mmit.jpg?raw=true"
+    },
+     {
+      "title": "TECHNOTHON -2025 APCOER ",
+      "award": "Participation",
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/anantrao%20pawar%20clg.jpg?raw=true"
+    },
   ],
   "My": [
     {
