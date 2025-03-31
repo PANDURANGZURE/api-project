@@ -16,8 +16,8 @@
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/intern3.png?raw=true"
     }
   ],
-  "Hackathon & Win": [
-     {
+  "Hackathon_Win": [
+    {
       "title": "Nirmitivedh 2k25 ADYPU",
       "award": "Special Prize",
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/nirmitived%20winner.jpg?raw=true"
@@ -41,18 +41,19 @@
       "title": "Nirmitivedh 2k25 ADYPU",
       "award": "Participation",
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/Nirmitivedh%202k25_2.jpg?raw=true"
-    }, {
+    },
+    {
       "title": "Techno-Sci MMIT Pune",
       "award": "Participation",
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/mmit.jpg?raw=true"
     },
-     {
-      "title": "TECHNOTHON -2025 APCOER ",
+    {
+      "title": "TECHNOTHON -2025 APCOER",
       "award": "Participation",
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/anantrao%20pawar%20clg.jpg?raw=true"
-    },
+    }
   ],
-  "My": [
+  "Certifications": [
     {
       "title": "Figma (UI/UX)",
       "issuer": "Udemy",
