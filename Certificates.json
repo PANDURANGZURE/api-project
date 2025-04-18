@@ -16,7 +16,7 @@
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/intern3.png?raw=true"
     }
   ],
-  "Hackathon_Win": [
+  "Hackathons": [
     {
       "title": "Nirmitivedh 2k25 ADYPU",
       "award": "Special Prize",
@@ -51,9 +51,14 @@
       "title": "TECHNOTHON -2025 APCOER",
       "award": "Participation",
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/anantrao%20pawar%20clg.jpg?raw=true"
+    },
+    {
+      "title": "GH Raisoni",
+      "award": "Participation",
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/raisoni.jpg?raw=true"
     }
   ],
-  "Certifications": [
+  "My": [
     {
       "title": "Figma (UI/UX)",
       "issuer": "Udemy",
