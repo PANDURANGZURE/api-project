@@ -96,6 +96,11 @@
       "name": "GitHub",
       "site": "https://github.com/",
       "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+    },
+    {
+      "name": "Git",
+      "site": "https://git-scm.com/",
+      "img": "https://git-scm.com/images/logo@2x.png"
     }
   ]
 }
