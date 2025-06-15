@@ -1,5 +1,22 @@
 [
   {
+    "title": "CodePaglu",
+    "description": "CodePaglu is a Python Interpreter that allows users to write and run Python code instantly in the browser—no setup or installation needed! Whether you're learning Python, testing a quick snippet, or just exploring, CODEPAGLU makes coding simple and accessible from any device.",
+    "tags": [ "Figma",
+  "Canva",
+  "GitHub",
+  "Netlify",
+  "HTML5",
+  "Tailwind CSS",
+  "GSAP",
+  "React JS",
+  "Monaco Editor",
+  "Vite",
+  "Google Analytics",
+  "Pyodide"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/Screenshot%202025-06-15%20160400.png?raw=true"
+  },
+  {
     "title": "QR Code Generator",
     "description": "This is a QR Code Generator allows users to convert text, numbers, and URLs into QR codes that never expire! Whether you need a QR code for personal, business, or marketing use. Share information effortlessly with scannable QR codes that are easy to use and compatible with all devices.",
     "tags": ["Figma", "Canva", "Tailwindcss", "React JS", "Web3Form", "Vite", "GSAP", "Python", "Flask"],
