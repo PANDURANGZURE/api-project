@@ -14,7 +14,7 @@
   "Vite",
   "Google Analytics",
   "Pyodide"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/Screenshot%202025-06-15%20160400.png?raw=true"
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/codepaglu.png?raw=true"
   },
   {
     "title": "QR Code Generator",
@@ -33,7 +33,7 @@
     "title": "Midnight Mode - Dark Theme Extension for VS Code",
     "description": "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
     "tags": ["VSCE", "NPM"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/exe.png?raw=true"
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/vsce.png?raw=true"
      
   },
   
