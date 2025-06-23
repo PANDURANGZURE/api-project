@@ -60,6 +60,11 @@
   ],
   "My": [
     {
+      "title": "Data Analytics",
+      "issuer": "Deloitte",
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/deloitte_page-0001.jpg?raw=true"
+    },
+    {
       "title": "Figma (UI/UX)",
       "issuer": "Udemy",
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/figma.png?raw=true"
