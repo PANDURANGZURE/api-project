@@ -17,6 +17,22 @@
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/codepaglu.png?raw=true"
   },
   {
+    "title": "Frontend Studio",
+    "description": "Frontend Studio is a lightweight, in-browser HTML, CSS, and JavaScript compiler designed for quick prototyping, learning, and building responsive web interfaces in real-time. ",
+    "tags": [ "Figma",
+  "Canva",
+  "GitHub",
+  "Vercel",
+  "Tailwind CSS",
+  "GSAP",
+  "Next JS",
+  "Monaco Editor",
+  "Webpack",
+  "Spline",
+  "JSzip"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/frontendstudio.png?raw=true"
+  },
+  {
     "title": "QR Code Generator",
     "description": "This is a QR Code Generator allows users to convert text, numbers, and URLs into QR codes that never expire! Whether you need a QR code for personal, business, or marketing use. Share information effortlessly with scannable QR codes that are easy to use and compatible with all devices.",
     "tags": ["Figma", "Canva", "Tailwindcss", "React JS", "Web3Form", "Vite", "GSAP", "Python", "Flask"],
