@@ -16,7 +16,7 @@
   "Pyodide"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/codepaglu.png?raw=true",
     "link" : "https://codepaglu.netlify.app/",
-    "github" : ""
+    "github" : "https://github.com/PANDURANGZURE/Codepaglu"
   },
   {
     "title": "Frontend Studio",
@@ -34,7 +34,7 @@
   "JSzip"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/frontendstudio.png?raw=true",
     "link" : "https://frontendstudio.vercel.app/",
-    "github" : ""
+    "github" : "https://github.com/PANDURANGZURE/Frontend-Studio"
   },
   {
     "title": "QR Code Generator",
@@ -42,7 +42,7 @@
     "tags": ["Figma", "Canva", "Tailwindcss", "React JS", "Web3Form", "Vite", "GSAP", "Python", "Flask"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/qr.png?raw=true",
     "link" : "https://qr-react-flask.netlify.app/",
-    "github" : ""
+    "github" : "https://github.com/PANDURANGZURE/qr-react-flask"
   },
   
   {
@@ -50,7 +50,8 @@
     "description": "This project appears to be related to agriculture or farming. It could be an e-commerce platform for agricultural products, a platform connecting farmers with buyers, or a resource hub for agricultural information.",
     "tags": ["Tailwindcss", "React JS", "Python", "Flask", "SQL Lite", "Figma"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/agro.png?raw=true" ,
-    "github" : ""
+    "github" : "https://github.com/prajwaldhage/agroconnectindia",
+    "link":"https://prajwaldhage.github.io/agroconnectindia/"
     
   },
   {
@@ -58,7 +59,8 @@
     "description": "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
     "tags": ["VSCE", "NPM"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/vsce.png?raw=true",
-    "link" : "https://marketplace.visualstudio.com/items?itemName=PandurangZure.midnight-mode"
+    "link" : "https://marketplace.visualstudio.com/items?itemName=PandurangZure.midnight-mode",
+    "github":"https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention"
      
   },
   
@@ -68,7 +70,7 @@
     "tags": ["Tailwindcss", "HTML", "Swiper JS", "JavaScript", "Figma", "Canva", "Web3Form", "Vite"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/ayu.png?raw=true" ,
     "link" : "https://pure-aayu.netlify.app/",
-    "github" : ""
+    "github" : "https://github.com/PANDURANGZURE/pure-ayu"
   },
   {
     "title": "Diploma Solutions",
@@ -83,7 +85,7 @@
     "tags": ["Figma","Tailwindcss", "HTML", "Javascript", "AOS library", "Typed js", "Parallax js" , "Vite"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/portfolio24.png?raw=true" ,
     "link" : "https://pandurang-2k24.netlify.app" ,
-    "github" : ""
+    "github" : "https://github.com/PANDURANGZURE/final-portfolio-2k24"
   },
   {
     "title": "Amazon Clone",
