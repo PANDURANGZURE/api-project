@@ -84,8 +84,8 @@
   {
     "title": "Pure Ayurveda",
     "description": "This project is likely a website or app for an Ayurvedic products or services company. It might feature information about Ayurvedic products, online consultations, or a booking system for treatments.",
-    "tags": ["Tailwindcss", "HTML", "Swiper JS", "JavaScript", "Figma", "Canva", "Web3Form", "Vite", "Gemini API"],
-    "tags": ["Tailwindcss",  "Swiper JS", "JavaScript",  "Web3Form", "Gemini API"],
+    "tags": ["Tailwindcss", "HTML", "Swiper JS", "JavaScript", "Figma", "Canva", "Web3Form", "Vite", "Gemini API","Neatlify", "Github"],
+    "tech": ["Tailwindcss",  "Swiper JS", "JavaScript",  "Web3Form", "Gemini API"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/ayu.png?raw=true" ,
     "link" : "https://pure-aayu.netlify.app/",
     "github" : "https://github.com/PANDURANGZURE/pure-ayu"
@@ -93,14 +93,25 @@
   {
     "title": "Diploma Solutions",
     "description": "This project likely showcases a website or application designed for educational institutions or individuals pursuing diplomas. It might involve features like online course registration, student portals, or career guidance.",
-    "tags": ["Wordpress", "Analytics", "SEO"],
+    "tags": ["Wordpress", "Analytics", "SEO","Cloudfare","Cpanel"],
+    "tech": ["Wordpress", "Analytics", "SEO","Cloudfare","Cpanel"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true",
     "github" : ""
   },
   {
+    "title": "Portfolio 2K25",
+    "description": "Portfolio 2K25 is a responsive web application crafted using React and Tailwind CSS, designed to present detailed project case studies in a visually engaging layout. Each project includes interactive previews, tech stack highlights, and clear summaries for easy navigation. Enhanced with GSAP and AOS for smooth animations, Lazy Loading for performance optimization, and integrated with Web3Forms for form handling — all bundled efficiently using Vite.",
+    "tags": ["Figma","Tailwindcss", "HTML", "React JS","GSAP" ,"AOS library", "Lazy Loading", "Web3Forms" , "Vite"],
+    "tech": ["Tailwindcss","React JS","AOS library", "Lazy Loading", "Web3Forms"],
+    "image": "https://media.licdn.com/dms/image/v2/D4D22AQFVEJ_D2cbTpw/feedshare-shrink_2048_1536/B4DZTrrKiJHwAo-/0/1739120751230?e=1754524800&v=beta&t=LnACvANPVJ1QlP0mzIhEYBWu8iwx5Vnf_oynFSKVTko" ,
+    "link" : "https://pandurang-2k25.netlify.app" ,
+    "github" : "https://github.com/PANDURANGZURE/portfolio-2k25"
+  },
+  {
     "title": "Portfolio 2K24",
-    "description": "The most modern and high-quality design made at a professional level.",
+    "description": "Portfolio 2K24 is a high-end, professionally crafted web portfolio that combines modern aesthetics with advanced frontend technologies. Designed in Figma and developed using Tailwind CSS, HTML, JavaScript, and Vite, it features smooth scroll animations (AOS), dynamic typing effects (Typed.js), and immersive visuals powered by Parallax.js — delivering both speed and elegance.",
     "tags": ["Figma","Tailwindcss", "HTML", "Javascript", "AOS library", "Typed js", "Parallax js" , "Vite"],
+    "tech": ["Tailwindcss", "Javascript", "AOS library", "Typed js", "Parallax js" ],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/portfolio24.png?raw=true" ,
     "link" : "https://pandurang-2k24.netlify.app" ,
     "github" : "https://github.com/PANDURANGZURE/final-portfolio-2k24"
@@ -108,39 +119,44 @@
   {
     "title": "Amazon Clone",
     "description": "This is a common project for developers, likely showcasing your skills in building e-commerce platforms. It would involve features like product browsing, shopping cart functionality, user accounts, and payment integration.",
-    "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
+    "tags": ["Figma","HTML", "CSS" ],
+    "tech": ["Figma","HTML", "CSS" ],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/amazon.png?raw=true",
     "link" : "https://amazon-zure.netlify.app/"  ,
-    "github" : ""
+    "github" : "https://github.com/PANDURANGZURE/amazon-clone"
   },
   {
     "title": "Netflix Clone",
     "description": "Another popular project, this likely demonstrates your ability to build a streaming platform-like interface. It might include features like video playback, user profiles, content recommendations, and search functionality.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
+    "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/netflix.png?raw=true" ,
     "link" : "https://nclone-zure.netlify.app/",
-    "github" : "" 
+    "github" : "https://github.com/PANDURANGZURE/Netflix-clone" 
   },
   {
     "title": "Yoga Classes Site",
     "description": "This project could be a website for a yoga studio or a platform for online yoga classes. It might include features like class schedules, instructor profiles, booking systems, and potentially even live streaming capabilities.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
+    "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/yoga.png?raw=true",
     "link" : "https://pz-yoga.netlify.app/" ,
-    "github" : ""
+    "github" : "https://github.com/PANDURANGZURE/yoga-site-pz-3112"
   },
   {
     "title": "Microsoft Edge Clone",
     "description": "This project likely focuses on recreating the user interface and functionality of the Microsoft Edge web browser. It would involve implementing features like browsing, tab management, extensions, and potentially even basic web rendering capabilities.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
+    "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/microsoft.png?raw=true" ,
     "link" : "https://mclone-zure.netlify.app/",
-    "github" : ""
+    "github" : "https://github.com/PANDURANGZURE/microsoft-clone"
   },
   {
     "title": "Facebook Login page Clone",
     "description": "This project demonstrates your ability to implement social media-style authentication features. It would involve creating a login page with features like email/password input, social media login options, and potentially even password recovery functionality.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
+    "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/facebook.png?raw=true",
     "github" : ""
   }
