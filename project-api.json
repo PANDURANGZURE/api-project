@@ -14,6 +14,13 @@
   "Vite",
   "Google Analytics",
   "Pyodide"],
+    "tech": [ 
+  "Tailwind CSS",
+  "GSAP",
+  "React JS",
+  "Monaco Editor",
+  "Google Analytics",
+  "Pyodide"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/codepaglu.png?raw=true",
     "link" : "https://codepaglu.netlify.app/",
     "github" : "https://github.com/PANDURANGZURE/Codepaglu"
@@ -32,6 +39,13 @@
   "Webpack",
   "Spline",
   "JSzip"],
+     "tech": [ 
+  "GSAP",
+  "Next JS",
+  "Monaco Editor",
+  "Webpack",
+  "Spline",
+  "JSzip"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/frontendstudio.png?raw=true",
     "link" : "https://frontendstudio.vercel.app/",
     "github" : "https://github.com/PANDURANGZURE/Frontend-Studio"
@@ -40,6 +54,7 @@
     "title": "QR Code Generator",
     "description": "This is a QR Code Generator allows users to convert text, numbers, and URLs into QR codes that never expire! Whether you need a QR code for personal, business, or marketing use. Share information effortlessly with scannable QR codes that are easy to use and compatible with all devices.",
     "tags": ["Figma", "Canva", "Tailwindcss", "React JS", "Web3Form", "Vite", "GSAP", "Python", "Flask"],
+    "tech": [ "Tailwindcss", "React JS", "Web3Form", "GSAP", "Python", "Flask"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/qr.png?raw=true",
     "link" : "https://qr-react-flask.netlify.app/",
     "github" : "https://github.com/PANDURANGZURE/qr-react-flask"
@@ -49,6 +64,7 @@
     "title": "Agro-Connect India",
     "description": "This project appears to be related to agriculture or farming. It could be an e-commerce platform for agricultural products, a platform connecting farmers with buyers, or a resource hub for agricultural information.",
     "tags": ["Tailwindcss", "React JS", "Python", "Flask", "SQL Lite", "Figma"],
+    "tech": ["Tailwindcss", "React JS", "Python", "Flask", "SQL Lite", "Firebase"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/agro.png?raw=true" ,
     "github" : "https://github.com/prajwaldhage/agroconnectindia",
     "link":"https://prajwaldhage.github.io/agroconnectindia/"
@@ -58,6 +74,7 @@
     "title": "Midnight Mode - Dark Theme Extension for VS Code",
     "description": "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
     "tags": ["VSCE", "NPM"],
+    "tech": ["VSCE", "NPM"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/vsce.png?raw=true",
     "link" : "https://marketplace.visualstudio.com/items?itemName=PandurangZure.midnight-mode",
     "github":"https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention"
@@ -67,7 +84,8 @@
   {
     "title": "Pure Ayurveda",
     "description": "This project is likely a website or app for an Ayurvedic products or services company. It might feature information about Ayurvedic products, online consultations, or a booking system for treatments.",
-    "tags": ["Tailwindcss", "HTML", "Swiper JS", "JavaScript", "Figma", "Canva", "Web3Form", "Vite"],
+    "tags": ["Tailwindcss", "HTML", "Swiper JS", "JavaScript", "Figma", "Canva", "Web3Form", "Vite", "Gemini API"],
+    "tags": ["Tailwindcss",  "Swiper JS", "JavaScript",  "Web3Form", "Gemini API"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/ayu.png?raw=true" ,
     "link" : "https://pure-aayu.netlify.app/",
     "github" : "https://github.com/PANDURANGZURE/pure-ayu"
