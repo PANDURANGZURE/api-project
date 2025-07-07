@@ -23,7 +23,13 @@
   "Pyodide"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/codepaglu.png?raw=true",
     "link" : "https://codepaglu.netlify.app/",
-    "github" : "https://github.com/PANDURANGZURE/Codepaglu"
+    "github" : "https://github.com/PANDURANGZURE/Codepaglu",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/4.png?raw=true"
+    ]
   },
   {
     "title": "Frontend Studio",
