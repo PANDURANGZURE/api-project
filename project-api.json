@@ -88,7 +88,6 @@
     "link":"https://prajwaldhage.github.io/agroconnectindia/",
     "images": [
       "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a1.png?raw=true",
-      "https://raw.githubusercontent.com/PANDURANGZURE/project-img/refs/heads/main/assets/project/a2.webp",
       "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a3.png?raw=true",
       "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a4.png?raw=true",
       "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a5.png?raw=true",
@@ -127,7 +126,11 @@
     "link" : "https://pure-aayu.netlify.app/",
     "github" : "https://github.com/PANDURANGZURE/pure-ayu",
     "images": [
-     "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p4.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p5.png?raw=true"
     ]
   },
   {
@@ -138,7 +141,7 @@
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true",
     "github" : "",
     "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true"
     ]
   },
   {
@@ -150,7 +153,12 @@
     "link" : "https://pandurang-2k25.netlify.app" ,
     "github" : "https://github.com/PANDURANGZURE/portfolio-2k25",
     "images": [
-     "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+     "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf4.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf5.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf6.png?raw=true"
     ]
   },
   {
@@ -162,7 +170,10 @@
     "link" : "https://pandurang-2k24.netlify.app" ,
     "github" : "https://github.com/PANDURANGZURE/final-portfolio-2k24",
     "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pp1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pp2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pp3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pp4.png?raw=true",
     ]
   },
   {
@@ -170,11 +181,12 @@
     "description": "This is a common project for developers, likely showcasing your skills in building e-commerce platforms. It would involve features like product browsing, shopping cart functionality, user accounts, and payment integration.",
     "tags": ["Figma","HTML", "CSS" ],
     "tech": ["Figma","HTML", "CSS" ],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/amazon.png?raw=true",
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/am1.png?raw=true",
     "link" : "https://amazon-zure.netlify.app/"  ,
     "github" : "https://github.com/PANDURANGZURE/amazon-clone",
     "images": [
-     "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+     "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/am1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/am2.png?raw=true"
     ]
   },
   {
@@ -182,11 +194,12 @@
     "description": "Another popular project, this likely demonstrates your ability to build a streaming platform-like interface. It might include features like video playback, user profiles, content recommendations, and search functionality.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
     "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/netflix.png?raw=true" ,
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/n1.png?raw=true" ,
     "link" : "https://nclone-zure.netlify.app/",
     "github" : "https://github.com/PANDURANGZURE/Netflix-clone" ,
     "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/n1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/n2.png?raw=true"
     ]
   },
   {
@@ -198,7 +211,10 @@
     "link" : "https://pz-yoga.netlify.app/" ,
     "github" : "https://github.com/PANDURANGZURE/yoga-site-pz-3112",
     "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/y1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/y2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/y3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/y4.png?raw=true"
     ]
   },
   {
@@ -210,7 +226,7 @@
     "link" : "https://mclone-zure.netlify.app/",
     "github" : "https://github.com/PANDURANGZURE/microsoft-clone",
     "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/mi1.png?raw=true"
     ]
   },
   {
@@ -221,7 +237,7 @@
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/facebook.png?raw=true",
     "github" : "",
     "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/facebook.png?raw=true"
     ]
   }
 ]
