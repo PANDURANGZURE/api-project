@@ -56,7 +56,9 @@
     "link" : "https://frontendstudio.vercel.app/",
     "github" : "https://github.com/PANDURANGZURE/Frontend-Studio",
     "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/f.1.jpg?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/f.2.jpg?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/f.3.jpg?raw=true"
     ]
   },
   {
@@ -68,7 +70,11 @@
     "link" : "https://qr-react-flask.netlify.app/",
     "github" : "https://github.com/PANDURANGZURE/qr-react-flask",
     "images": [
-    "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+    "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/s1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/s2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/s3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/s4.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/s5.png?raw=true"
     ]
   },
   
@@ -81,7 +87,16 @@
     "github" : "https://github.com/prajwaldhage/agroconnectindia",
     "link":"https://prajwaldhage.github.io/agroconnectindia/",
     "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a4.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a5.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a6.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a7.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a8.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a9.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a10.png?raw=true"
     ]
     
   },
@@ -94,7 +109,11 @@
     "link" : "https://marketplace.visualstudio.com/items?itemName=PandurangZure.midnight-mode",
     "github":"https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention",
     "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true"
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m4.png?raw=true"
+      
     ]
      
   },
