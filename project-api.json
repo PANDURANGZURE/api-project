@@ -14,8 +14,22 @@
   "Vite",
   "Google Analytics",
   "Pyodide"],
+    "tech": [ 
+  "Tailwind CSS",
+  "GSAP",
+  "React JS",
+  "Monaco Editor",
+  "Google Analytics",
+  "Pyodide"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/codepaglu.png?raw=true",
-    "link" : "https://codepaglu.netlify.app/"
+    "link" : "https://codepaglu.netlify.app/",
+    "github" : "https://github.com/PANDURANGZURE/Codepaglu",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/4.png?raw=true"
+    ]
   },
   {
     "title": "Frontend Studio",
@@ -31,84 +45,197 @@
   "Webpack",
   "Spline",
   "JSzip"],
+     "tech": [ 
+  "GSAP",
+  "Next JS",
+  "Monaco Editor",
+  "Webpack",
+  "Spline",
+  "JSzip"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/frontendstudio.png?raw=true",
-    "link" : "https://frontendstudio.vercel.app/"
+    "link" : "https://frontendstudio.vercel.app/",
+    "github" : "https://github.com/PANDURANGZURE/Frontend-Studio",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/f.1.jpg?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/f.2.jpg?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/f.3.jpg?raw=true"
+    ]
   },
   {
     "title": "QR Code Generator",
     "description": "This is a QR Code Generator allows users to convert text, numbers, and URLs into QR codes that never expire! Whether you need a QR code for personal, business, or marketing use. Share information effortlessly with scannable QR codes that are easy to use and compatible with all devices.",
     "tags": ["Figma", "Canva", "Tailwindcss", "React JS", "Web3Form", "Vite", "GSAP", "Python", "Flask"],
+    "tech": [ "Tailwindcss", "React JS", "Web3Form", "GSAP", "Python", "Flask"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/qr.png?raw=true",
-    "link" : "https://qr-react-flask.netlify.app/"
+    "link" : "https://qr-react-flask.netlify.app/",
+    "github" : "https://github.com/PANDURANGZURE/qr-react-flask",
+    "images": [
+    "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/s1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/s2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/s3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/s4.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/s5.png?raw=true"
+    ]
   },
   
   {
     "title": "Agro-Connect India",
     "description": "This project appears to be related to agriculture or farming. It could be an e-commerce platform for agricultural products, a platform connecting farmers with buyers, or a resource hub for agricultural information.",
     "tags": ["Tailwindcss", "React JS", "Python", "Flask", "SQL Lite", "Figma"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/agro.png?raw=true" 
+    "tech": ["Tailwindcss", "React JS", "Python", "Flask", "SQL Lite", "Firebase"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/agro.png?raw=true" ,
+    "github" : "https://github.com/prajwaldhage/agroconnectindia",
+    "link":"https://prajwaldhage.github.io/agroconnectindia/",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a4.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a5.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a6.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a7.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a8.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a9.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a10.png?raw=true"
+    ]
   },
   {
     "title": "Midnight Mode - Dark Theme Extension for VS Code",
     "description": "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
     "tags": ["VSCE", "NPM"],
+    "tech": ["VSCE", "NPM"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/vsce.png?raw=true",
-    "link" : "https://marketplace.visualstudio.com/items?itemName=PandurangZure.midnight-mode"
-     
+    "link" : "https://marketplace.visualstudio.com/items?itemName=PandurangZure.midnight-mode",
+    "github":"https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m4.png?raw=true"
+      
+    ]
   },
   
   {
     "title": "Pure Ayurveda",
     "description": "This project is likely a website or app for an Ayurvedic products or services company. It might feature information about Ayurvedic products, online consultations, or a booking system for treatments.",
-    "tags": ["Tailwindcss", "HTML", "Swiper JS", "JavaScript", "Figma", "Canva", "Web3Form", "Vite"],
+    "tags": ["Tailwindcss", "HTML", "Swiper JS", "JavaScript", "Figma", "Canva", "Web3Form", "Vite", "Gemini API","Neatlify", "Github"],
+    "tech": ["Tailwindcss",  "Swiper JS", "JavaScript",  "Web3Form", "Gemini API"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/ayu.png?raw=true" ,
-    "link" : "https://pure-aayu.netlify.app/"
+    "link" : "https://pure-aayu.netlify.app/",
+    "github" : "https://github.com/PANDURANGZURE/pure-ayu",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p4.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p5.png?raw=true"
+    ]
   },
   {
     "title": "Diploma Solutions",
     "description": "This project likely showcases a website or application designed for educational institutions or individuals pursuing diplomas. It might involve features like online course registration, student portals, or career guidance.",
-    "tags": ["Wordpress", "Analytics", "SEO"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true"
+    "tags": ["Wordpress", "Analytics", "SEO","Cloudfare","Cpanel"],
+    "tech": ["Wordpress", "Analytics", "SEO","Cloudfare","Cpanel"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true",
+    "github" : "",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true"
+    ]
+  },
+  {
+    "title": "Portfolio 2K25",
+    "description": "Portfolio 2K25 is a responsive web application crafted using React and Tailwind CSS, designed to present detailed project case studies in a visually engaging layout. Each project includes interactive previews, tech stack highlights, and clear summaries for easy navigation. Enhanced with GSAP and AOS for smooth animations, Lazy Loading for performance optimization, and integrated with Web3Forms for form handling — all bundled efficiently using Vite.",
+    "tags": ["Figma","Tailwindcss", "HTML", "React JS","GSAP" ,"AOS library", "Lazy Loading", "Web3Forms" , "Vite"],
+    "tech": ["Tailwindcss","React JS","AOS library", "Lazy Loading", "Web3Forms"],
+    "image": "https://media.licdn.com/dms/image/v2/D4D22AQFVEJ_D2cbTpw/feedshare-shrink_2048_1536/B4DZTrrKiJHwAo-/0/1739120751230?e=1754524800&v=beta&t=LnACvANPVJ1QlP0mzIhEYBWu8iwx5Vnf_oynFSKVTko" ,
+    "link" : "https://pandurang-2k25.netlify.app" ,
+    "github" : "https://github.com/PANDURANGZURE/portfolio-2k25",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf4.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf5.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf6.png?raw=true"
+    ]
   },
   {
     "title": "Portfolio 2K24",
-    "description": "The most modern and high-quality design made at a professional level.",
+    "description": "Portfolio 2K24 is a high-end, professionally crafted web portfolio that combines modern aesthetics with advanced frontend technologies. Designed in Figma and developed using Tailwind CSS, HTML, JavaScript, and Vite, it features smooth scroll animations (AOS), dynamic typing effects (Typed.js), and immersive visuals powered by Parallax.js — delivering both speed and elegance.",
     "tags": ["Figma","Tailwindcss", "HTML", "Javascript", "AOS library", "Typed js", "Parallax js" , "Vite"],
+    "tech": ["Tailwindcss", "Javascript", "AOS library", "Typed js", "Parallax js" ],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/portfolio24.png?raw=true" ,
-    "link" : "https://pandurang-2k24.netlify.app" 
+    "link" : "https://pandurang-2k24.netlify.app" ,
+    "github" : "https://github.com/PANDURANGZURE/final-portfolio-2k24",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pp1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pp2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pp3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pp4.png?raw=true"
+    ]
   },
   {
     "title": "Amazon Clone",
     "description": "This is a common project for developers, likely showcasing your skills in building e-commerce platforms. It would involve features like product browsing, shopping cart functionality, user accounts, and payment integration.",
-    "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/amazon.png?raw=true",
-    "link" : "https://amazon-zure.netlify.app/"  
+    "tags": ["Figma","HTML", "CSS" ],
+    "tech": ["Figma","HTML", "CSS" ],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/am1.png?raw=true",
+    "link" : "https://amazon-zure.netlify.app/"  ,
+    "github" : "https://github.com/PANDURANGZURE/amazon-clone",
+    "images": [
+     "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/am1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/am2.png?raw=true"
+    ]
   },
   {
     "title": "Netflix Clone",
     "description": "Another popular project, this likely demonstrates your ability to build a streaming platform-like interface. It might include features like video playback, user profiles, content recommendations, and search functionality.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/netflix.png?raw=true" ,
-    "link" : "https://nclone-zure.netlify.app/" 
+    "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/n1.png?raw=true" ,
+    "link" : "https://nclone-zure.netlify.app/",
+    "github" : "https://github.com/PANDURANGZURE/Netflix-clone" ,
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/n1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/n2.png?raw=true"
+    ]
   },
   {
     "title": "Yoga Classes Site",
     "description": "This project could be a website for a yoga studio or a platform for online yoga classes. It might include features like class schedules, instructor profiles, booking systems, and potentially even live streaming capabilities.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
+    "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/yoga.png?raw=true",
-    "link" : "https://pz-yoga.netlify.app/" 
+    "link" : "https://pz-yoga.netlify.app/" ,
+    "github" : "https://github.com/PANDURANGZURE/yoga-site-pz-3112",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/y1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/y2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/y3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/y4.png?raw=true"
+    ]
   },
   {
     "title": "Microsoft Edge Clone",
     "description": "This project likely focuses on recreating the user interface and functionality of the Microsoft Edge web browser. It would involve implementing features like browsing, tab management, extensions, and potentially even basic web rendering capabilities.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
+    "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/microsoft.png?raw=true" ,
-    "link" : "https://mclone-zure.netlify.app/"
+    "link" : "https://mclone-zure.netlify.app/",
+    "github" : "https://github.com/PANDURANGZURE/microsoft-clone",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/mi1.png?raw=true"
+    ]
   },
   {
     "title": "Facebook Login page Clone",
     "description": "This project demonstrates your ability to implement social media-style authentication features. It would involve creating a login page with features like email/password input, social media login options, and potentially even password recovery functionality.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/facebook.png?raw=true"
+    "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/facebook.png?raw=true",
+    "github" : "",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/facebook.png?raw=true"
+    ]
   }
 ]

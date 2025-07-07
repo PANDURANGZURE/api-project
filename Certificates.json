@@ -64,6 +64,11 @@
       "issuer": "Deloitte",
       "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/certificates/deloitte_page-0001.jpg?raw=true"
     },
+     {
+      "title": "Data Analytics",
+      "issuer": "Quantium",
+      "image": "https://github.com/PANDURANGZURE/project-img/blob/main/quantium_page-0001.jpg?raw=true"
+    },
     {
       "title": "Figma (UI/UX)",
       "issuer": "Udemy",
