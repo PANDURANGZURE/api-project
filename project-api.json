@@ -147,7 +147,7 @@
     "description": "Portfolio 2K25 is a responsive web application crafted using React and Tailwind CSS, designed to present detailed project case studies in a visually engaging layout. Each project includes interactive previews, tech stack highlights, and clear summaries for easy navigation. Enhanced with GSAP and AOS for smooth animations, Lazy Loading for performance optimization, and integrated with Web3Forms for form handling — all bundled efficiently using Vite.",
     "tags": ["Figma","Tailwindcss", "HTML", "React JS","GSAP" ,"AOS library", "Lazy Loading", "Web3Forms" , "Vite"],
     "tech": ["Tailwindcss","React JS","AOS library", "Lazy Loading", "Web3Forms"],
-    "image": "https://media.licdn.com/dms/image/v2/D4D22AQFVEJ_D2cbTpw/feedshare-shrink_2048_1536/B4DZTrrKiJHwAo-/0/1739120751230?e=1754524800&v=beta&t=LnACvANPVJ1QlP0mzIhEYBWu8iwx5Vnf_oynFSKVTko" ,
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pf1.png?raw=true" ,
     "link" : "https://pandurang-2k25.netlify.app" ,
     "github" : "https://github.com/PANDURANGZURE/portfolio-2k25",
     "images": [
