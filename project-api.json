@@ -62,6 +62,36 @@
     ]
   },
   {
+    "title": "Midnight Mode - Dark Theme Extension for VS Code",
+    "description": "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
+    "tags": ["VSCE", "NPM"],
+    "tech": ["VSCE", "NPM"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/vsce.png?raw=true",
+    "link" : "https://marketplace.visualstudio.com/items?itemName=PandurangZure.midnight-mode",
+    "github":"https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m4.png?raw=true"
+      
+    ]
+  },{
+    "title": "Github Glance",
+    "description": "GitHubGlance provides a quick, elegant way to explore GitHub user profiles and their repositories. It's perfect for developers, recruiters, or anyone curious about GitHub activity.",
+    "tags": ["Next JS", "TailwindCSS","Github API", "GSAP","Vercel", "Webpack"],
+    "tech": ["Next JS", "TailwindCSS","Github API", "GSAP","Vercel", "Webpack"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/gg2.png?raw=true",
+    "link" : "https://githubglance.vercel.app/",
+    "github":"https://github.com/PANDURANGZURE/github-info-extrator",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/gg1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/gg2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/gg3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/gg4.png?raw=true"
+    ]
+  },
+  {
     "title": "QR Code Generator",
     "description": "This is a QR Code Generator allows users to convert text, numbers, and URLs into QR codes that never expire! Whether you need a QR code for personal, business, or marketing use. Share information effortlessly with scannable QR codes that are easy to use and compatible with all devices.",
     "tags": ["Figma", "Canva", "Tailwindcss", "React JS", "Web3Form", "Vite", "GSAP", "Python", "Flask"],
@@ -98,23 +128,6 @@
       "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/a10.png?raw=true"
     ]
   },
-  {
-    "title": "Midnight Mode - Dark Theme Extension for VS Code",
-    "description": "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
-    "tags": ["VSCE", "NPM"],
-    "tech": ["VSCE", "NPM"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/vsce.png?raw=true",
-    "link" : "https://marketplace.visualstudio.com/items?itemName=PandurangZure.midnight-mode",
-    "github":"https://github.com/PANDURANGZURE/midnight-mode-vs-code-Extention",
-    "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m1.png?raw=true",
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m2.png?raw=true",
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m3.png?raw=true",
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/m4.png?raw=true"
-      
-    ]
-  },
-  
   {
     "title": "Pure Ayurveda",
     "description": "This project is likely a website or app for an Ayurvedic products or services company. It might feature information about Ayurvedic products, online consultations, or a booking system for treatments.",
