@@ -81,7 +81,7 @@
     "description": "GitHubGlance provides a quick, elegant way to explore GitHub user profiles and their repositories. It's perfect for developers, recruiters, or anyone curious about GitHub activity.",
     "tags": ["Next JS", "TailwindCSS","Github API", "GSAP","Vercel", "Webpack"],
     "tech": ["Next JS", "TailwindCSS","Github API", "GSAP","Vercel", "Webpack"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/gg2.png?raw=true",
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/gg1.png?raw=true",
     "link" : "https://githubglance.vercel.app/",
     "github":"https://github.com/PANDURANGZURE/github-info-extrator",
     "images": [
