@@ -1,6 +1,7 @@
 [
   {
     "title": "CodePaglu",
+    "date": "",
     "description": "CodePaglu is a Python Interpreter that allows users to write and run Python code instantly in the browser—no setup or installation needed! Whether you're learning Python, testing a quick snippet, or just exploring, CODEPAGLU makes coding simple and accessible from any device.",
     "tags": [ "Figma",
   "Canva",
@@ -33,6 +34,7 @@
   },
   {
     "title": "Frontend Studio",
+    "date": "",
     "description": "Frontend Studio is a lightweight, in-browser HTML, CSS, and JavaScript compiler designed for quick prototyping, learning, and building responsive web interfaces in real-time. It empowers users to write, test, and run frontend code directly in the browser without installing any additional tools. ",
     "tags": [ "Figma",
   "Canva",
@@ -63,6 +65,7 @@
   },
   {
     "title": "Midnight Mode - Dark Theme Extension for VS Code",
+    "date": "",
     "description": "A soothing dark theme for a better coding experience at night. Elegant and eye-friendly dark mode. Perfect for night-time coding sessions. Improved syntax highlighting for better readability.",
     "tags": ["VSCE", "NPM"],
     "tech": ["VSCE", "NPM"],
@@ -78,6 +81,7 @@
     ]
   },{
     "title": "Github Glance",
+    "date": "",
     "description": "GitHubGlance provides a quick, elegant way to explore GitHub user profiles and their repositories. It's perfect for developers, recruiters, or anyone curious about GitHub activity.",
     "tags": ["Next JS", "TailwindCSS","Github API", "GSAP","Vercel", "Webpack"],
     "tech": ["Next JS", "TailwindCSS","Github API", "GSAP","Vercel", "Webpack"],
@@ -93,6 +97,7 @@
   },
   {
     "title": "QR Code Generator",
+    "date": "",
     "description": "This is a QR Code Generator allows users to convert text, numbers, and URLs into QR codes that never expire! Whether you need a QR code for personal, business, or marketing use. Share information effortlessly with scannable QR codes that are easy to use and compatible with all devices.",
     "tags": ["Figma", "Canva", "Tailwindcss", "React JS", "Web3Form", "Vite", "GSAP", "Python", "Flask"],
     "tech": [ "Tailwindcss", "React JS", "Web3Form", "GSAP", "Python", "Flask"],
@@ -110,6 +115,7 @@
   
   {
     "title": "Agro-Connect India",
+    "date": "",
     "description": "This project appears to be related to agriculture or farming. It could be an e-commerce platform for agricultural products, a platform connecting farmers with buyers, or a resource hub for agricultural information.",
     "tags": ["Tailwindcss", "React JS", "Python", "Flask", "SQL Lite", "Figma"],
     "tech": ["Tailwindcss", "React JS", "Python", "Flask", "SQL Lite", "Firebase"],
@@ -130,6 +136,7 @@
   },
   {
     "title": "Pure Ayurveda",
+    "date": "",
     "description": "This project is likely a website or app for an Ayurvedic products or services company. It might feature information about Ayurvedic products, online consultations, or a booking system for treatments.",
     "tags": ["Tailwindcss", "HTML", "Swiper JS", "JavaScript", "Figma", "Canva", "Web3Form", "Vite", "Gemini API","Neatlify", "Github"],
     "tech": ["Tailwindcss",  "Swiper JS", "JavaScript",  "Web3Form", "Gemini API"],
@@ -146,6 +153,7 @@
   },
   {
     "title": "Diploma Solutions",
+    "date": "",
     "description": "This project likely showcases a website or application designed for educational institutions or individuals pursuing diplomas. It might involve features like online course registration, student portals, or career guidance.",
     "tags": ["Wordpress", "Analytics", "SEO","Cloudfare","Cpanel"],
     "tech": ["Wordpress", "Analytics", "SEO","Cloudfare","Cpanel"],
@@ -157,6 +165,7 @@
   },
   {
     "title": "Portfolio 2K25",
+    "date": "",
     "description": "Portfolio 2K25 is a responsive web application crafted using React and Tailwind CSS, designed to present detailed project case studies in a visually engaging layout. Each project includes interactive previews, tech stack highlights, and clear summaries for easy navigation. Enhanced with GSAP and AOS for smooth animations, Lazy Loading for performance optimization, and integrated with Web3Forms for form handling — all bundled efficiently using Vite.",
     "tags": ["Figma","Tailwindcss", "HTML", "React JS","GSAP" ,"AOS library", "Lazy Loading", "Web3Forms" , "Vite"],
     "tech": ["Tailwindcss","React JS","AOS library", "Lazy Loading", "Web3Forms"],
@@ -174,6 +183,7 @@
   },
   {
     "title": "Portfolio 2K24",
+    "date": "",
     "description": "Portfolio 2K24 is a high-end, professionally crafted web portfolio that combines modern aesthetics with advanced frontend technologies. Designed in Figma and developed using Tailwind CSS, HTML, JavaScript, and Vite, it features smooth scroll animations (AOS), dynamic typing effects (Typed.js), and immersive visuals powered by Parallax.js — delivering both speed and elegance.",
     "tags": ["Figma","Tailwindcss", "HTML", "Javascript", "AOS library", "Typed js", "Parallax js" , "Vite"],
     "tech": ["Tailwindcss", "Javascript", "AOS library", "Typed js", "Parallax js" ],
@@ -189,6 +199,7 @@
   },
   {
     "title": "Amazon Clone",
+    "date": "",
     "description": "This is a common project for developers, likely showcasing your skills in building e-commerce platforms. It would involve features like product browsing, shopping cart functionality, user accounts, and payment integration.",
     "tags": ["Figma","HTML", "CSS" ],
     "tech": ["Figma","HTML", "CSS" ],
@@ -202,6 +213,7 @@
   },
   {
     "title": "Netflix Clone",
+    "date": "",
     "description": "Another popular project, this likely demonstrates your ability to build a streaming platform-like interface. It might include features like video playback, user profiles, content recommendations, and search functionality.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
     "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
@@ -215,6 +227,7 @@
   },
   {
     "title": "Yoga Classes Site",
+    "date": "",
     "description": "This project could be a website for a yoga studio or a platform for online yoga classes. It might include features like class schedules, instructor profiles, booking systems, and potentially even live streaming capabilities.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
     "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
@@ -230,6 +243,7 @@
   },
   {
     "title": "Microsoft Edge Clone",
+    "date": "",
     "description": "This project likely focuses on recreating the user interface and functionality of the Microsoft Edge web browser. It would involve implementing features like browsing, tab management, extensions, and potentially even basic web rendering capabilities.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
     "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
@@ -242,6 +256,7 @@
   },
   {
     "title": "Facebook Login page Clone",
+    "date": "",
     "description": "This project demonstrates your ability to implement social media-style authentication features. It would involve creating a login page with features like email/password input, social media login options, and potentially even password recovery functionality.",
     "tags": ["Figma","HTML", "Tailwind CSS" , "Vite"],
     "tech": ["Figma","HTML", "Tailwind CSS" , "Vite"],
