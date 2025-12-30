@@ -164,7 +164,7 @@
     ]
   },
   {
-    "title": "Portfolio 2K25",
+    "title": "Portfolio",
     "date": "2025",
     "description": "Portfolio 2K25 is a responsive web application crafted using React and Tailwind CSS, designed to present detailed project case studies in a visually engaging layout. Each project includes interactive previews, tech stack highlights, and clear summaries for easy navigation. Enhanced with GSAP and AOS for smooth animations, Lazy Loading for performance optimization, and integrated with Web3Forms for form handling — all bundled efficiently using Vite.",
     "tags": ["Figma","Tailwindcss", "HTML", "React JS","GSAP" ,"AOS library", "Lazy Loading", "Web3Forms" , "Vite"],
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "title": "Portfolio 2K24",
+    "title": "Portfolio",
     "date": "2024",
     "description": "Portfolio 2K24 is a high-end, professionally crafted web portfolio that combines modern aesthetics with advanced frontend technologies. Designed in Figma and developed using Tailwind CSS, HTML, JavaScript, and Vite, it features smooth scroll animations (AOS), dynamic typing effects (Typed.js), and immersive visuals powered by Parallax.js — delivering both speed and elegance.",
     "tags": ["Figma","Tailwindcss", "HTML", "Javascript", "AOS library", "Typed js", "Parallax js" , "Vite"],
