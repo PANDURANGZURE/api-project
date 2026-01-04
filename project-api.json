@@ -126,38 +126,9 @@
     ]
   },
   {
-    "title": "Pure Ayurveda",
-    "date": "2025",
-    "description": "This project is likely a website or app for an Ayurvedic products or services company. It might feature information about Ayurvedic products, online consultations, or a booking system for treatments.",
-    "tags": ["Tailwindcss", "Swiper JS", "JavaScript","Web3Form", "Vite", "Gemini API"],
-    "tech": ["Tailwindcss",  "Swiper JS", "JavaScript",  "Web3Form", "Gemini API"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/ayu.png?raw=true" ,
-    "link" : "https://pure-aayu.netlify.app/",
-    "github" : "https://github.com/PANDURANGZURE/pure-ayu",
-    "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p1.png?raw=true",
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p2.png?raw=true",
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p3.png?raw=true",
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p4.png?raw=true",
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p5.png?raw=true"
-    ]
-  },
-  {
-    "title": "Diploma Solutions",
-    "date": "2022",
-    "description": "This project likely showcases a website or application designed for educational institutions or individuals pursuing diplomas. It might involve features like online course registration, student portals, or career guidance.",
-    "tags": ["Wordpress", "Analytics", "SEO","Cloudfare","Cpanel"],
-    "tech": ["Wordpress", "Analytics", "SEO","Cloudfare","Cpanel"],
-    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true",
-    "github" : "",
-    "images": [
-      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true"
-    ]
-  },
-  {
     "title": "Portfolio",
     "date": "2026",
-    "description": "Portfolio 2K26 is a responsive web application crafted using React and Tailwind CSS, designed to present detailed project case studies in a visually engaging layout. Each project includes interactive previews, tech stack highlights, and clear summaries for easy navigation. Enhanced with GSAP and AOS for smooth animations, Lazy Loading for performance optimization, and integrated with Web3Forms for form handling — all bundled efficiently using Vite.",
+    "description": "A modern, high-performance developer portfolio built with React JS and Tailwind CSS, featuring smooth animations powered by GSAP, Framer Motion, and AOS. Enhanced with Tilt.js interactions and a fully functional contact system using Web3Forms.",
     "tags": ["Tailwindcss","React JS","GSAP" ,"AOS library", "Framer Motion","Tilt Js", "Web3Forms"],
     "tech": ["Tailwindcss","React JS","AOS library", "Framer-motion", "Web3Forms"],
     "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p26/p26-1.png?raw=true" ,
@@ -210,6 +181,36 @@
       "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/pp4.png?raw=true"
     ]
   },
+  {
+    "title": "Pure Ayurveda",
+    "date": "2025",
+    "description": "This project is likely a website or app for an Ayurvedic products or services company. It might feature information about Ayurvedic products, online consultations, or a booking system for treatments.",
+    "tags": ["Tailwindcss", "Swiper JS", "JavaScript","Web3Form", "Vite", "Gemini API"],
+    "tech": ["Tailwindcss",  "Swiper JS", "JavaScript",  "Web3Form", "Gemini API"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/ayu.png?raw=true" ,
+    "link" : "https://pure-aayu.netlify.app/",
+    "github" : "https://github.com/PANDURANGZURE/pure-ayu",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p4.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p5.png?raw=true"
+    ]
+  },
+  {
+    "title": "Diploma Solutions",
+    "date": "2022",
+    "description": "This project likely showcases a website or application designed for educational institutions or individuals pursuing diplomas. It might involve features like online course registration, student portals, or career guidance.",
+    "tags": ["Wordpress", "Analytics", "SEO","Cloudfare","Cpanel"],
+    "tech": ["Wordpress", "Analytics", "SEO","Cloudfare","Cpanel"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true",
+    "github" : "",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/dpsolution.png?raw=true"
+    ]
+  },
+
   {
     "title": "Amazon Clone",
     "date": "2023",
