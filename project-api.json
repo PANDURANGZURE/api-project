@@ -156,6 +156,28 @@
   },
   {
     "title": "Portfolio",
+    "date": "2026",
+    "description": "Portfolio 2K26 is a responsive web application crafted using React and Tailwind CSS, designed to present detailed project case studies in a visually engaging layout. Each project includes interactive previews, tech stack highlights, and clear summaries for easy navigation. Enhanced with GSAP and AOS for smooth animations, Lazy Loading for performance optimization, and integrated with Web3Forms for form handling — all bundled efficiently using Vite.",
+    "tags": ["Tailwindcss","React JS","GSAP" ,"AOS library", "Framer Motion","Tilt Js", "Web3Forms"],
+    "tech": ["Tailwindcss","React JS","AOS library", "Framer-motion", "Web3Forms"],
+    "image": "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p26/p26-1.png?raw=true" ,
+    "link" : "https://pandurang-2k26.netlify.app" ,
+    "github" : "https://github.com/PANDURANGZURE/portfolio-2k26",
+    "images": [
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p26/p26-1.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p26/p26-2.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p26/p26-3.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p26/p26-4.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p26/p26-5.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p26/p26-6.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p26/p26-7.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p26/p26-8.png?raw=true",
+      "https://github.com/PANDURANGZURE/project-img/blob/main/assets/project/p26/p26-9.png?raw=true"
+      
+    ]
+  },
+  {
+    "title": "Portfolio",
     "date": "2025",
     "description": "Portfolio 2K25 is a responsive web application crafted using React and Tailwind CSS, designed to present detailed project case studies in a visually engaging layout. Each project includes interactive previews, tech stack highlights, and clear summaries for easy navigation. Enhanced with GSAP and AOS for smooth animations, Lazy Loading for performance optimization, and integrated with Web3Forms for form handling — all bundled efficiently using Vite.",
     "tags": ["Tailwindcss","React JS","GSAP" ,"AOS library", "Lazy Loading", "Web3Forms"],
